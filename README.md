@@ -1,5 +1,7 @@
 
-**English Below!!!**
+[English version below](#the-gorislavl-route-for-train-simulator-classic)
+
+[![Gorislavl route map](gorislavl_scheme.png)](gorislavl_scheme.png)
 
 # Маршрут "Гориславль" для игры Train Simulator Classic
 
