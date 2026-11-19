@@ -124,7 +124,7 @@ If you experience problems with the route:
 * Subscribe to my gaming channel: [https://www.youtube.com/гамелан](https://www.youtube.com/гамелан)
 * Do you like trams? Try our simulator, The Tram: [https://store.steampowered.com/app/4415050/The_Tram/](https://store.steampowered.com/app/4415050/The_Tram/)
 
-#Screenshots
+# Screenshots
 <table>
   <tr>
     <td><a href="scr01.jpg"><img src="scr01.jpg" width="600" alt="Screenshot 1"></a></td>
